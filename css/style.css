@@ -1,0 +1,15 @@
+.bg-images{
+    color: rgb(197, 119, 119);
+    background-image: url("/islamic.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-color: blue;
+   width: 1080px;
+   height: 1180px;
+   text-align: center;
+   
+}
+.p-insert{
+    border-style: inset;
+    
+}
